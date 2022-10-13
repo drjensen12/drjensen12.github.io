@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(46, 46, 46);
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+}
+
+table {
+    border: 2px solid #FFFFFF;
+    margin: auto;
+}
+
+thead {
+    font-weight: 700;
+    text-align: center;
+    background-color: aqua;
+}
+
+tbody {
+    color: white;
+}
+
+td {
+    border-bottom: 1px solid #FFF;
+}
+
+mark {
+    font-family: monospace;
+    background-color: darkgray;
+}
